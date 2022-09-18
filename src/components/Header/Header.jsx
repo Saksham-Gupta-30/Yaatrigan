@@ -32,7 +32,7 @@ const Header = ({ setCoordinates }) => {
                 <span style={{ whiteSpace: "no-wrap" }}>
                     <Lottie className="lg:m-8 md:m-8 m-6" animationData={travel} style={{ height: "75px", width: "75px", display: "inline-block" }} loop={true} />
                     <Typography variant="h5" className={classes.title} style={cursive}>
-                        TravelBliss
+                        Yaatrigan
                     </Typography>
                 </span>
 
